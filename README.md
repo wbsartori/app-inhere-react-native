@@ -58,7 +58,7 @@ $ expo start
 ## Contribuindo
 
 
-Email-me: wbsartori@gmail.com
+E-mail: wbsartori@gmail.com
 
 Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/wesleysartori/)
 
@@ -67,4 +67,4 @@ Obrigado !
 ---
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o [LICENSE.md](https://github.com/steniowagner/mindCast/blob/master/LICENSE) file for details
+Este projeto está licenciado sob a Licença MIT - veja o [LICENSE.md](https://github.com/wbsartori/app-inhere-react-native/master/LICENSE) arquivo para detalhes
