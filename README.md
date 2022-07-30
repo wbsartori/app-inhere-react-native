@@ -67,4 +67,4 @@ Obrigado !
 ---
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o [LICENSE.md](https://github.com/wbsartori/app-inhere-react-native/master/LICENSE) arquivo para detalhes
+Este projeto está licenciado sob a Licença MIT - veja o [LICENSE.md](https://github.com/wbsartori/app-inhere-react-native/blob/master/LICENSE) arquivo para detalhes
